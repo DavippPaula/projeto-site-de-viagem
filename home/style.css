@@ -1,0 +1,27 @@
+.par > strong > .ancor{
+    text-decoration: none;
+    color: black;
+}
+.par > strong > .ancor:hover{
+    color: green;
+}
+.fonat{
+    font-weight: 800;
+    font-size: 2rem;
+}
+.names > a{
+    text-decoration: none;
+    color: white;
+}
+.names > a:hover{
+    color: green;
+}
+
+.ancs{
+    color: black;
+    text-decoration: none;
+}
+
+.ps > .ancs:hover{
+    color: green;
+}
